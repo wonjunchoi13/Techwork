@@ -1,4 +1,4 @@
-#Terminal Commands
+# Terminal Commands
 
 The instructors are going to put list of terminal commands here.
 
@@ -9,3 +9,9 @@ Therefore, please go to the following link (https://gitforwindows.org/) and down
 
 Other operating system users already have terminal available to use.
 
+#### Current Directory
+
+``` 
+Displays current directory from file system.
+pwd
+```
