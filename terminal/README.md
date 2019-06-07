@@ -13,5 +13,5 @@ Other operating system users already have terminal available to use.
 Displays current directory from file system.
 
 ``` 
-pwd
+$ pwd
 ```
