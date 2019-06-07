@@ -12,6 +12,6 @@ Other operating system users already have terminal available to use.
 #### Current Directory
 
 ``` 
-Displays current directory from file system.
+ # Displays current directory from file system.
 pwd
 ```
