@@ -14,4 +14,20 @@ Displays current directory from file system.
 
 ``` 
 $ pwd
+
 ```
+
+#### Change Directory
+Changes to directory indicated by folder_name
+
+```
+$ cd foldner_name
+```
+Changes to parent directory
+
+```
+$ cd ..
+```
+
+
+
