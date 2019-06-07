@@ -12,9 +12,8 @@ Other operating system users already have terminal available to use.
 #### Current Directory
 Displays current directory from file system.
 
-``` 
+```
 $ pwd
-
 ```
 
 #### Change Directory
@@ -28,6 +27,28 @@ Changes to parent directory
 ```
 $ cd ..
 ```
+
+#### Listing
+List all files & folders within the current directory
+```
+$ ls
+```
+
+List all files & folders within the current directory with more informations
+```
+$ ls -l
+```
+
+List all files & folders within the current directory including hidden files & folders
+```
+$ ls -a
+```
+
+List all files & folders within the current directory with more informations including hidden files & folders
+```
+$ ls -la
+```
+
 
 
 
