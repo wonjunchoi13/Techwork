@@ -1,0 +1,45 @@
+body{
+  margin : 100px;
+}
+
+
+.test1,.test2,.test3,.test4{
+  display:inline-block;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border: 4px solid black;
+  margin-top: 10px;
+}
+
+
+@keyframes fadeIn{
+  from{
+    opacity:0;
+  }
+  to{
+    opacity:1;
+  }
+}
+
+.row1{
+  opacity:0;
+  animation: fadeIn 1s forwards;
+  animation-timing-function: ease-in-out;
+  anim\
+}
+.row2{
+  opacity:0;
+  animation: fadeIn 2s forwards;
+  animation-timing-function: ease-in-out;
+}
+.row3{
+  opcaity:0;
+  animation:fadeIn 3s forwards;
+  animation-timing-function: ease-in-out;
+}
+.row4{
+  opcaity:0;
+  animation:fadeIn 4s forwards;
+  animation-timing-function: ease-in-out;
+}
